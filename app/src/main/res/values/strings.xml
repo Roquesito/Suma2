@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Suma</string>
+    <string name="hint_numero01">Primer Numero</string>
+    <string name="hint_numero02">Segundo Numero</string>
+    <string name="lbl_resultado">Resultado</string>
+    <string name="btn_calcular">Caluclar</string>
+</resources>
